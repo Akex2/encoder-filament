@@ -20,6 +20,7 @@ sudo python setup.py install
 cd..
 sudo apt-get install python-dev python-pip
 sudo pip install wiringpi2
+sudo pip install pushbullet.py
 #if pip-3.2 can't be found, please use pip3
 #sudo pip3 install python-uinput pyudev
 
